@@ -20,8 +20,8 @@
     }
 
 .abouttimg {
-    width: 200px;
-    height:200px;
+    width: 150px;
+    height:150px;
 }
 
 .card {
@@ -45,4 +45,5 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    margin:0 auto;
 }

@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\rachelroberts\\source\\repos\\racmrob.github.io\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rachelroberts\\source\\repos\\racmrob.github.io\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rachelroberts\\source\\repos\\racmrob.github.io\\StyleSheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StyleSheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rachelroberts\\source\\repos\\racmrob.github.io\\SkillSets.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SkillSets.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rachelroberts\\source\\repos\\racmrob.github.io\\EmploymentHistory.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmploymentHistory.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rachelroberts\\source\\repos\\racmrob.github.io\\Projects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Projects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rachelroberts\\source\\repos\\racmrob.github.io\\About.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:About.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Projects.html",
+              "DocumentMoniker": "C:\\Users\\rachelroberts\\source\\repos\\racmrob.github.io\\Projects.html",
+              "RelativeDocumentMoniker": "Projects.html",
+              "ToolTip": "C:\\Users\\rachelroberts\\source\\repos\\racmrob.github.io\\Projects.html",
+              "RelativeToolTip": "Projects.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-30T21:56:55.23Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\rachelroberts\\source\\repos\\racmrob.github.io\\StyleSheet.css",
+              "RelativeDocumentMoniker": "StyleSheet.css",
+              "ToolTip": "C:\\Users\\rachelroberts\\source\\repos\\racmrob.github.io\\StyleSheet.css",
+              "RelativeToolTip": "StyleSheet.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-30T22:06:04.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmploymentHistory.html",
+              "DocumentMoniker": "C:\\Users\\rachelroberts\\source\\repos\\racmrob.github.io\\EmploymentHistory.html",
+              "RelativeDocumentMoniker": "EmploymentHistory.html",
+              "ToolTip": "C:\\Users\\rachelroberts\\source\\repos\\racmrob.github.io\\EmploymentHistory.html",
+              "RelativeToolTip": "EmploymentHistory.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-30T21:57:18.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SkillSets.html",
+              "DocumentMoniker": "C:\\Users\\rachelroberts\\source\\repos\\racmrob.github.io\\SkillSets.html",
+              "RelativeDocumentMoniker": "SkillSets.html",
+              "ToolTip": "C:\\Users\\rachelroberts\\source\\repos\\racmrob.github.io\\SkillSets.html",
+              "RelativeToolTip": "SkillSets.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-30T21:57:11.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.html",
+              "DocumentMoniker": "C:\\Users\\rachelroberts\\source\\repos\\racmrob.github.io\\About.html",
+              "RelativeDocumentMoniker": "About.html",
+              "ToolTip": "C:\\Users\\rachelroberts\\source\\repos\\racmrob.github.io\\About.html",
+              "RelativeToolTip": "About.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-30T21:56:33.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\rachelroberts\\source\\repos\\racmrob.github.io\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\rachelroberts\\source\\repos\\racmrob.github.io\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAcAAAAAZmZmZmYEwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-30T21:41:45.825Z",
+              "EditorCaption": ""
             }
           ]
         }

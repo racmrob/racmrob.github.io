@@ -27,23 +27,31 @@
 .card {
     border: 1px solid #343a40;
     border-radius: 8px;
-/*    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-*/    overflow: hidden;
     background-color: #cfd0d1;
-    margin: 4px auto;
+    margin: 8px; 
     width: 100%;
     max-width: 300px;
+    height: auto; 
 }
 
-
 .card-body {
-    padding: 16px;
+    padding: 12px; 
     border-top: 1px solid #f0f0f0;
+}
+
+.card-img-top {
+    width: 100%; 
+    height: auto;
+    max-height: 150px; 
+    object-fit: cover; 
+    border-bottom: 1px solid #f0f0f0;
+    display: block;
 }
 
 .container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
-    margin:0 auto;
+    justify-content: center; 
+    gap: 8px; 
+    margin: 0 auto;
 }

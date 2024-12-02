@@ -16,3 +16,21 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 });
 
+
+document.addEventListener("DOMContentLoaded", function () {
+    const accordionHeaders = document.querySelectorAll(".accordion-header");
+
+    accordionHeaders.forEach((header) => {
+        header.addEventListener("click", function () {
+            const targetId = header.getAttribute("data-target");
+            const body = document.getElementById(targetId);
+
+            document.querySelectorAll(".accordion-collapse").forEach((collapse) => {
+                if (collapse !== body) {
+                    collapse.classList.remove("show");
+                }
+            });
+            body.classList.toggle("show");
+        });
+    });
+});

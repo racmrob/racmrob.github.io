@@ -1,4 +1,4 @@
-ocument.addEventListener("DOMContentLoaded", function () {
+document.addEventListener("DOMContentLoaded", function () {
     const readMoreBtn = document.getElementById("readmorebtn");
     const hiddenContent = document.getElementById("hiddenBio");
     const dots = document.getElementById("dots");

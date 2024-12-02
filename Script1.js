@@ -6,12 +6,12 @@ document.addEventListener("DOMContentLoaded", function () {
     readMoreBtn.addEventListener("click", function () {
         if (hiddenContent.classList.contains("hidden")) {
             hiddenContent.classList.remove("hidden");
-            dots.style.display = "none"; 
-            readMoreBtn.textContent = "Read Less"; 
+            dots.style.display = "none";
+            readMoreBtn.textContent = "Read Less";
         } else {
             hiddenContent.classList.add("hidden");
-            dots.style.display = "inline"; 
-            readMoreBtn.textContent = "Read More"; 
+            dots.style.display = "inline";
+            readMoreBtn.textContent = "Read More";
         }
     });
 });

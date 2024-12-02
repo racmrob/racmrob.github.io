@@ -72,3 +72,40 @@
 .hidden {
     display: none; 
 }
+
+
+
+
+
+.accordion {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.accordion-item {
+    border-bottom: 1px solid #ddd;
+}
+
+.accordion-header {
+    padding: 12px 16px;
+    background-color: #f0f0f0;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+    .accordion-header:hover {
+        background-color: #e2e6ea;
+    }
+
+.accordion-body {
+    display: none; 
+    padding: 12px 16px;
+    background-color: #fff;
+}
+
+.accordion-header.active + .accordion-body {
+    display: block;
+}

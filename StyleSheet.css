@@ -55,3 +55,16 @@
     gap: 8px; 
     margin: 0 auto;
 }
+
+.indextitle {
+   justify-content: center;
+}
+
+.card-title{
+    font-size: 20px;
+}
+
+.card-text{
+    font-size: 14px;
+}
+
